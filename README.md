@@ -40,5 +40,4 @@ services:
     ipAllowList: []
     plan: free
     maxmemoryPolicy: noeviction
-"
 ```
