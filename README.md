@@ -1,9 +1,15 @@
 ## Deploying on Render for Rails app
 
 This follows Render recommendations from their website: https://render.com/docs/deploy-rails
+
 Then initialize with free settings
+
 Then ask if you wanna commit/create a remote repo/open render
-Thanks to Anne Ly for the tutorial.
+
+
+
+PS: Thanks to Anne Ly for the tutorial.
+
 Enjoy!
 
 ## render.yaml configuration
