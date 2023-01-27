@@ -1,10 +1,12 @@
 ## Deploying on Render for Rails app
 
-This follows Render recommendations from their website: https://render.com/docs/deploy-rails
+This script follows Render recommendations from their website: https://render.com/docs/deploy-rails
 
-Then initialize with free settings
+Download and run this ruby script from the app of your root via terminal
 
-Then ask if you wanna commit/create a remote repo/open render
+Basic initalization with free settings on Render
+
+At the end, scrip asks if you wanna commit || create a remote repo || open render
 
 
 
